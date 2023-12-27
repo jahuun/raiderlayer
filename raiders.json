@@ -12,8 +12,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "usa",
-        "teamSetupName": "usa",
+        "faction": "United States Army",
+        "teamSetupName": "United States Army",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -23,8 +23,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -51,8 +51,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "sc",
-        "teamSetupName": "sc",
+        "faction": "Shadow Company",
+        "teamSetupName": "Shadow Company",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -62,8 +62,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "spetz",
-        "teamSetupName": "spetz",
+        "faction": "Spetznaz",
+        "teamSetupName": "Spetznaz",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -90,8 +90,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "idf",
-        "teamSetupName": "idf",
+        "faction": "Israel Defense Force",
+        "teamSetupName": "Israel Defense Force",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -101,8 +101,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "hez",
-        "teamSetupName": "hez",
+        "faction": "Hezbollah",
+        "teamSetupName": "Hezbollah",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -129,8 +129,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "idf",
-        "teamSetupName": "idf",
+        "faction": "Israel Defense Force",
+        "teamSetupName": "Israel Defense Force",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -140,8 +140,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "hez",
-        "teamSetupName": "hez",
+        "faction": "Hezbollah",
+        "teamSetupName": "Hezbollah",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -168,8 +168,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "hamas",
-        "teamSetupName": "hamas",
+        "faction": "Hamas Resistance",
+        "teamSetupName": "Hamas Resistance",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -179,8 +179,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "idf",
-        "teamSetupName": "idf",
+        "faction": "Israel Defense Force",
+        "teamSetupName": "Israel Defense Force",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -207,8 +207,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "hamas",
-        "teamSetupName": "hamas",
+        "faction": "Hamas Resistance",
+        "teamSetupName": "Hamas Resistance",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -218,8 +218,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -246,8 +246,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "taf",
-        "teamSetupName": "taf",
+        "faction": "Turkish Armed Forces",
+        "teamSetupName": "Turkish Armed Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -257,8 +257,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -285,8 +285,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -296,8 +296,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -324,8 +324,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -335,8 +335,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -363,8 +363,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -374,8 +374,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -402,8 +402,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "rusof",
-        "teamSetupName": "rusof",
+        "faction": "Russian Special Forces",
+        "teamSetupName": "Russian Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -413,8 +413,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -441,8 +441,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "usmc",
-        "teamSetupName": "usmc",
+        "faction": "United States Marine Corps",
+        "teamSetupName": "United States Marine Corps",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -452,8 +452,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -480,8 +480,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "usmc",
-        "teamSetupName": "usmc",
+        "faction": "United States Marine Corps",
+        "teamSetupName": "United States Marine Corps",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -491,8 +491,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "rusof",
-        "teamSetupName": "rusof",
+        "faction": "Russian Special Forces",
+        "teamSetupName": "Russian Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -519,8 +519,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -530,8 +530,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -558,8 +558,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -569,8 +569,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "rusof",
-        "teamSetupName": "rusof",
+        "faction": "Russian Special Forces",
+        "teamSetupName": "Russian Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -597,8 +597,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "taf",
-        "teamSetupName": "taf",
+        "faction": "Turkish Armed Forces",
+        "teamSetupName": "Turkish Armed Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -608,8 +608,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -636,8 +636,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "usmc",
-        "teamSetupName": "usmc",
+        "faction": "United States Marine Corps",
+        "teamSetupName": "United States Marine Corps",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -647,8 +647,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -675,8 +675,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -686,8 +686,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -714,8 +714,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -725,8 +725,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -753,8 +753,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -764,8 +764,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -792,8 +792,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -803,8 +803,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "taf",
-        "teamSetupName": "taf",
+        "faction": "Turkish Armed Forces",
+        "teamSetupName": "Turkish Armed Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -831,8 +831,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "idf",
-        "teamSetupName": "idf",
+        "faction": "Israel Defense Force",
+        "teamSetupName": "Israel Defense Force",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -842,8 +842,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "hez",
-        "teamSetupName": "hez",
+        "faction": "Hezbollah",
+        "teamSetupName": "Hezbollah",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -870,8 +870,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "usa",
-        "teamSetupName": "usa",
+        "faction": "United States Army",
+        "teamSetupName": "United States Army",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -881,8 +881,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -909,8 +909,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -920,8 +920,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -948,8 +948,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -959,8 +959,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -987,8 +987,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "vdv",
-        "teamSetupName": "vdv",
+        "faction": "Russian Airborne Troops",
+        "teamSetupName": "Russian Airborne Troops",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -998,8 +998,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "afu",
-        "teamSetupName": "afu",
+        "faction": "Armed Forces of Ukraine",
+        "teamSetupName": "Armed Forces of Ukraine",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1026,8 +1026,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1037,8 +1037,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "uafi",
-        "teamSetupName": "uafi",
+        "faction": "Ukraine International Legion",
+        "teamSetupName": "Ukraine International Legion",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1065,8 +1065,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1076,8 +1076,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1104,8 +1104,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "vdv",
-        "teamSetupName": "vdv",
+        "faction": "Russian Airborne Troops",
+        "teamSetupName": "Russian Airborne Troops",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1115,8 +1115,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "uafi",
-        "teamSetupName": "uafi",
+        "faction": "Ukraine International Legion",
+        "teamSetupName": "Ukraine International Legion",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1143,8 +1143,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "idf",
-        "teamSetupName": "idf",
+        "faction": "Israel Defense Force",
+        "teamSetupName": "Israel Defense Force",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1154,8 +1154,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "hamas",
-        "teamSetupName": "hamas",
+        "faction": "Hamas Resistance",
+        "teamSetupName": "Hamas Resistance",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1182,8 +1182,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1193,8 +1193,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1221,8 +1221,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1232,8 +1232,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1260,8 +1260,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "idf",
-        "teamSetupName": "idf",
+        "faction": "Israel Defense Force",
+        "teamSetupName": "Israel Defense Force",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1271,8 +1271,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "hez",
-        "teamSetupName": "hez",
+        "faction": "Hezbollah",
+        "teamSetupName": "Hezbollah",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1299,8 +1299,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "usa",
-        "teamSetupName": "usa",
+        "faction": "United States Army",
+        "teamSetupName": "United States Army",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1310,8 +1310,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1338,8 +1338,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "usmc",
-        "teamSetupName": "usmc",
+        "faction": "United States Marine Corps",
+        "teamSetupName": "United States Marine Corps",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1349,8 +1349,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "hez",
-        "teamSetupName": "hez",
+        "faction": "Hezbollah",
+        "teamSetupName": "Hezbollah",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1377,8 +1377,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "sc",
-        "teamSetupName": "sc",
+        "faction": "Shadow Company",
+        "teamSetupName": "Shadow Company",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1388,8 +1388,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "spetz",
-        "teamSetupName": "spetz",
+        "faction": "Spetznaz",
+        "teamSetupName": "Spetznaz",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1416,8 +1416,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "usmc",
-        "teamSetupName": "usmc",
+        "faction": "United States Marine Corps",
+        "teamSetupName": "United States Marine Corps",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1427,8 +1427,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "hamas",
-        "teamSetupName": "hamas",
+        "faction": "Hamas Resistance",
+        "teamSetupName": "Hamas Resistance",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1455,8 +1455,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1466,8 +1466,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "rusof",
-        "teamSetupName": "rusof",
+        "faction": "Russian Special Forces",
+        "teamSetupName": "Russian Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1494,8 +1494,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "usmc",
-        "teamSetupName": "usmc",
+        "faction": "United States Marine Corps",
+        "teamSetupName": "United States Marine Corps",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1505,8 +1505,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1533,8 +1533,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "hamas",
-        "teamSetupName": "hamas",
+        "faction": "Hamas Resistance",
+        "teamSetupName": "Hamas Resistance",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1544,8 +1544,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "idf",
-        "teamSetupName": "idf",
+        "faction": "Israel Defense Force",
+        "teamSetupName": "Israel Defense Force",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1572,8 +1572,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "idf",
-        "teamSetupName": "idf",
+        "faction": "Israel Defense Force",
+        "teamSetupName": "Israel Defense Force",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1583,8 +1583,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "hez",
-        "teamSetupName": "hez",
+        "faction": "Hezbollah",
+        "teamSetupName": "Hezbollah",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1611,8 +1611,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "rusof",
-        "teamSetupName": "rusof",
+        "faction": "Russian Special Forces",
+        "teamSetupName": "Russian Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1622,8 +1622,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "usmc",
-        "teamSetupName": "usmc",
+        "faction": "United States Marine Corps",
+        "teamSetupName": "United States Marine Corps",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1650,8 +1650,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "taf",
-        "teamSetupName": "taf",
+        "faction": "Turkish Armed Forces",
+        "teamSetupName": "Turkish Armed Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1661,8 +1661,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1689,8 +1689,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1700,8 +1700,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1728,8 +1728,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1739,8 +1739,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1767,8 +1767,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "idf",
-        "teamSetupName": "idf",
+        "faction": "Israel Defense Force",
+        "teamSetupName": "Israel Defense Force",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1778,8 +1778,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "hez",
-        "teamSetupName": "hez",
+        "faction": "Hezbollah",
+        "teamSetupName": "Hezbollah",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1806,8 +1806,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "usa",
-        "teamSetupName": "usa",
+        "faction": "United States Army",
+        "teamSetupName": "United States Army",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1817,8 +1817,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1845,8 +1845,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "hamas",
-        "teamSetupName": "hamas",
+        "faction": "Hamas Resistance",
+        "teamSetupName": "Hamas Resistance",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1856,8 +1856,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "idf",
-        "teamSetupName": "idf",
+        "faction": "Israel Defense Force",
+        "teamSetupName": "Israel Defense Force",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1884,8 +1884,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "usmc",
-        "teamSetupName": "usmc",
+        "faction": "United States Marine Corps",
+        "teamSetupName": "United States Marine Corps",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1895,8 +1895,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "rusof",
-        "teamSetupName": "rusof",
+        "faction": "Russian Special Forces",
+        "teamSetupName": "Russian Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1923,8 +1923,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "rgf",
-        "teamSetupName": "rgf",
+        "faction": "Russian Ground Forces",
+        "teamSetupName": "Russian Ground Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1934,8 +1934,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "uafi",
-        "teamSetupName": "uafi",
+        "faction": "Ukraine International Legion",
+        "teamSetupName": "Ukraine International Legion",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1962,8 +1962,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "spetz",
-        "teamSetupName": "spetz",
+        "faction": "Spetznaz",
+        "teamSetupName": "Spetznaz",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1973,8 +1973,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "usa",
-        "teamSetupName": "usa",
+        "faction": "United States Army",
+        "teamSetupName": "United States Army",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2001,8 +2001,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2012,8 +2012,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2040,8 +2040,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "vdv",
-        "teamSetupName": "vdv",
+        "faction": "Russian Airborne Troops",
+        "teamSetupName": "Russian Airborne Troops",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2051,8 +2051,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "afu",
-        "teamSetupName": "afu",
+        "faction": "Armed Forces of Ukraine",
+        "teamSetupName": "Armed Forces of Ukraine",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2079,8 +2079,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "rgf",
-        "teamSetupName": "rgf",
+        "faction": "Russian Ground Forces",
+        "teamSetupName": "Russian Ground Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2090,8 +2090,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "uafi",
-        "teamSetupName": "uafi",
+        "faction": "Ukraine International Legion",
+        "teamSetupName": "Ukraine International Legion",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2118,8 +2118,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2129,8 +2129,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2157,8 +2157,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "vdv",
-        "teamSetupName": "vdv",
+        "faction": "Russian Airborne Troops",
+        "teamSetupName": "Russian Airborne Troops",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2168,8 +2168,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "afu",
-        "teamSetupName": "afu",
+        "faction": "Armed Forces of Ukraine",
+        "teamSetupName": "Armed Forces of Ukraine",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2196,8 +2196,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "vdvassualt",
-        "teamSetupName": "vdvassualt",
+        "faction": "Russian Airborne Troops",
+        "teamSetupName": "Russian Airborne Troops",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2207,8 +2207,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "afu",
-        "teamSetupName": "afu",
+        "faction": "Armed Forces of Ukraine",
+        "teamSetupName": "Armed Forces of Ukraine",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2235,8 +2235,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "usa",
-        "teamSetupName": "usa",
+        "faction": "United States Army",
+        "teamSetupName": "United States Army",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2246,8 +2246,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "spetz",
-        "teamSetupName": "spetz",
+        "faction": "Spetznaz",
+        "teamSetupName": "Spetznaz",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2274,8 +2274,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "uafi",
-        "teamSetupName": "uafi",
+        "faction": "Ukraine International Legion",
+        "teamSetupName": "Ukraine International Legion",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2285,8 +2285,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "vdv",
-        "teamSetupName": "vdv",
+        "faction": "Russian Airborne Troops",
+        "teamSetupName": "Russian Airborne Troops",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2313,8 +2313,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "afu",
-        "teamSetupName": "afu",
+        "faction": "Armed Forces of Ukraine",
+        "teamSetupName": "Armed Forces of Ukraine",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2324,8 +2324,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "vdv",
-        "teamSetupName": "vdv",
+        "faction": "Russian Airborne Troops",
+        "teamSetupName": "Russian Airborne Troops",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2352,8 +2352,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "uafi",
-        "teamSetupName": "uafi",
+        "faction": "Ukraine International Legion",
+        "teamSetupName": "Ukraine International Legion",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2363,8 +2363,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "rgf",
-        "teamSetupName": "rgf",
+        "faction": "Russian Ground Forces",
+        "teamSetupName": "Russian Ground Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2391,8 +2391,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "afu",
-        "teamSetupName": "afu",
+        "faction": "Armed Forces of Ukraine",
+        "teamSetupName": "Armed Forces of Ukraine",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2402,8 +2402,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2430,8 +2430,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "afu",
-        "teamSetupName": "afu",
+        "faction": "Armed Forces of Ukraine",
+        "teamSetupName": "Armed Forces of Ukraine",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2441,8 +2441,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "rgf",
-        "teamSetupName": "rgf",
+        "faction": "Russian Ground Forces",
+        "teamSetupName": "Russian Ground Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2469,8 +2469,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "usmc",
-        "teamSetupName": "usmc",
+        "faction": "United States Marine Corps",
+        "teamSetupName": "United States Marine Corps",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2480,8 +2480,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "rusof",
-        "teamSetupName": "rusof",
+        "faction": "Russian Special Forces",
+        "teamSetupName": "Russian Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2508,8 +2508,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "uafi",
-        "teamSetupName": "uafi",
+        "faction": "Ukraine International Legion",
+        "teamSetupName": "Ukraine International Legion",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2519,8 +2519,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "vdv",
-        "teamSetupName": "vdv",
+        "faction": "Russian Airborne Troops",
+        "teamSetupName": "Russian Airborne Troops",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2547,8 +2547,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "idf",
-        "teamSetupName": "idf",
+        "faction": "Israel Defense Force",
+        "teamSetupName": "Israel Defense Force",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2558,8 +2558,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "hamas",
-        "teamSetupName": "hamas",
+        "faction": "Hamas Resistance",
+        "teamSetupName": "Hamas Resistance",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2586,8 +2586,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2597,8 +2597,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2625,8 +2625,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2636,8 +2636,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "hamas",
-        "teamSetupName": "hamas",
+        "faction": "Hamas Resistance",
+        "teamSetupName": "Hamas Resistance",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2664,8 +2664,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "idf",
-        "teamSetupName": "idf",
+        "faction": "Israel Defense Force",
+        "teamSetupName": "Israel Defense Force",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2675,8 +2675,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2703,8 +2703,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2714,8 +2714,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "hamas",
-        "teamSetupName": "hamas",
+        "faction": "Hamas Resistance",
+        "teamSetupName": "Hamas Resistance",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2742,8 +2742,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "taf",
-        "teamSetupName": "taf",
+        "faction": "Turkish Armed Forces",
+        "teamSetupName": "Turkish Armed Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2753,8 +2753,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2781,8 +2781,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "taf",
-        "teamSetupName": "taf",
+        "faction": "Turkish Armed Forces",
+        "teamSetupName": "Turkish Armed Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2792,8 +2792,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2820,8 +2820,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2831,8 +2831,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2859,8 +2859,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2870,8 +2870,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2898,8 +2898,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "idf",
-        "teamSetupName": "idf",
+        "faction": "Israel Defense Force",
+        "teamSetupName": "Israel Defense Force",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2909,8 +2909,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "hez",
-        "teamSetupName": "hez",
+        "faction": "Hezbollah",
+        "teamSetupName": "Hezbollah",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2937,8 +2937,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "taf",
-        "teamSetupName": "taf",
+        "faction": "Turkish Armed Forces",
+        "teamSetupName": "Turkish Armed Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2948,8 +2948,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2976,8 +2976,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "usa",
-        "teamSetupName": "usa",
+        "faction": "United States Army",
+        "teamSetupName": "United States Army",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2987,8 +2987,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "spetz",
-        "teamSetupName": "spetz",
+        "faction": "Spetznaz",
+        "teamSetupName": "Spetznaz",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3015,8 +3015,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3026,8 +3026,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3054,8 +3054,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3065,8 +3065,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3093,8 +3093,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "idf",
-        "teamSetupName": "idf",
+        "faction": "Israel Defense Force",
+        "teamSetupName": "Israel Defense Force",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3104,8 +3104,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "hamas",
-        "teamSetupName": "hamas",
+        "faction": "Hamas Resistance",
+        "teamSetupName": "Hamas Resistance",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3132,8 +3132,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3143,8 +3143,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3171,8 +3171,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3182,8 +3182,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3210,8 +3210,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "idf",
-        "teamSetupName": "idf",
+        "faction": "Israel Defense Force",
+        "teamSetupName": "Israel Defense Force",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3221,8 +3221,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "hez",
-        "teamSetupName": "hez",
+        "faction": "Hezbollah",
+        "teamSetupName": "Hezbollah",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3249,8 +3249,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "afu",
-        "teamSetupName": "afu",
+        "faction": "Armed Forces of Ukraine",
+        "teamSetupName": "Armed Forces of Ukraine",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3260,8 +3260,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "vdv",
-        "teamSetupName": "vdv",
+        "faction": "Russian Airborne Troops",
+        "teamSetupName": "Russian Airborne Troops",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3288,8 +3288,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "uafi",
-        "teamSetupName": "uafi",
+        "faction": "Ukraine International Legion",
+        "teamSetupName": "Ukraine International Legion",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3299,8 +3299,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3327,8 +3327,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "uafi",
-        "teamSetupName": "uafi",
+        "faction": "Ukraine International Legion",
+        "teamSetupName": "Ukraine International Legion",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3338,8 +3338,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "vdv",
-        "teamSetupName": "vdv",
+        "faction": "Russian Airborne Troops",
+        "teamSetupName": "Russian Airborne Troops",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3366,8 +3366,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "afu",
-        "teamSetupName": "afu",
+        "faction": "Armed Forces of Ukraine",
+        "teamSetupName": "Armed Forces of Ukraine",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3377,8 +3377,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3405,8 +3405,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3416,8 +3416,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "rusof",
-        "teamSetupName": "rusof",
+        "faction": "Russian Special Forces",
+        "teamSetupName": "Russian Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3444,8 +3444,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "usmc",
-        "teamSetupName": "usmc",
+        "faction": "United States Marine Corps",
+        "teamSetupName": "United States Marine Corps",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3455,8 +3455,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "rusof",
-        "teamSetupName": "rusof",
+        "faction": "Russian Special Forces",
+        "teamSetupName": "Russian Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3483,8 +3483,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3494,8 +3494,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3522,8 +3522,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3533,8 +3533,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "rgf",
-        "teamSetupName": "rgf",
+        "faction": "Russian Ground Forces",
+        "teamSetupName": "Russian Ground Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3561,8 +3561,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "usmc",
-        "teamSetupName": "usmc",
+        "faction": "United States Marine Corps",
+        "teamSetupName": "United States Marine Corps",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3572,8 +3572,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "rusof",
-        "teamSetupName": "rusof",
+        "faction": "Russian Special Forces",
+        "teamSetupName": "Russian Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3600,8 +3600,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "uafi",
-        "teamSetupName": "uafi",
+        "faction": "Ukraine International Legion",
+        "teamSetupName": "Ukraine International Legion",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3611,8 +3611,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3639,8 +3639,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "idf",
-        "teamSetupName": "idf",
+        "faction": "Israel Defense Force",
+        "teamSetupName": "Israel Defense Force",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3650,8 +3650,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "hamas",
-        "teamSetupName": "hamas",
+        "faction": "Hamas Resistance",
+        "teamSetupName": "Hamas Resistance",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3678,8 +3678,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3689,8 +3689,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3717,8 +3717,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "vdv",
-        "teamSetupName": "vdv",
+        "faction": "Russian Airborne Troops",
+        "teamSetupName": "Russian Airborne Troops",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3728,8 +3728,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "uafi",
-        "teamSetupName": "uafi",
+        "faction": "Ukraine International Legion",
+        "teamSetupName": "Ukraine International Legion",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3756,8 +3756,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "afu",
-        "teamSetupName": "afu",
+        "faction": "Armed Forces of Ukraine",
+        "teamSetupName": "Armed Forces of Ukraine",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3767,8 +3767,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "rgf",
-        "teamSetupName": "rgf",
+        "faction": "Russian Ground Forces",
+        "teamSetupName": "Russian Ground Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3795,8 +3795,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "sc",
-        "teamSetupName": "sc",
+        "faction": "Shadow Company",
+        "teamSetupName": "Shadow Company",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3806,8 +3806,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "usa",
-        "teamSetupName": "usa",
+        "faction": "United States Army",
+        "teamSetupName": "United States Army",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3834,8 +3834,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "idf",
-        "teamSetupName": "idf",
+        "faction": "Israel Defense Force",
+        "teamSetupName": "Israel Defense Force",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3845,8 +3845,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "hamas",
-        "teamSetupName": "hamas",
+        "faction": "Hamas Resistance",
+        "teamSetupName": "Hamas Resistance",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3873,8 +3873,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "idf",
-        "teamSetupName": "idf",
+        "faction": "Israel Defense Force",
+        "teamSetupName": "Israel Defense Force",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3884,8 +3884,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "hez",
-        "teamSetupName": "hez",
+        "faction": "Hezbollah",
+        "teamSetupName": "Hezbollah",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3912,8 +3912,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "taf",
-        "teamSetupName": "taf",
+        "faction": "Turkish Armed Forces",
+        "teamSetupName": "Turkish Armed Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3923,8 +3923,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3951,8 +3951,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "usa",
-        "teamSetupName": "usa",
+        "faction": "United States Army",
+        "teamSetupName": "United States Army",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3962,8 +3962,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3990,8 +3990,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "usmc",
-        "teamSetupName": "usmc",
+        "faction": "United States Marine Corps",
+        "teamSetupName": "United States Marine Corps",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4001,8 +4001,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4029,8 +4029,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4040,8 +4040,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4068,8 +4068,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4079,8 +4079,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4107,8 +4107,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4118,8 +4118,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4146,8 +4146,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "taf",
-        "teamSetupName": "taf",
+        "faction": "Turkish Armed Forces",
+        "teamSetupName": "Turkish Armed Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4157,8 +4157,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4185,8 +4185,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4196,8 +4196,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4224,8 +4224,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4235,8 +4235,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "aqins",
-        "teamSetupName": "aqins",
+        "faction": "AQ Insurgents",
+        "teamSetupName": "AQ Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4263,8 +4263,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4274,8 +4274,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "taf",
-        "teamSetupName": "taf",
+        "faction": "Turkish Armed Forces",
+        "teamSetupName": "Turkish Armed Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4302,8 +4302,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "idf",
-        "teamSetupName": "idf",
+        "faction": "Israel Defense Force",
+        "teamSetupName": "Israel Defense Force",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4313,8 +4313,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "hamas",
-        "teamSetupName": "hamas",
+        "faction": "Hamas Resistance",
+        "teamSetupName": "Hamas Resistance",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4341,8 +4341,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "idf",
-        "teamSetupName": "idf",
+        "faction": "Israel Defense Force",
+        "teamSetupName": "Israel Defense Force",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4352,8 +4352,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "hez",
-        "teamSetupName": "hez",
+        "faction": "Hezbollah",
+        "teamSetupName": "Hezbollah",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4380,8 +4380,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "usmc",
-        "teamSetupName": "usmc",
+        "faction": "United States Marine Corps",
+        "teamSetupName": "United States Marine Corps",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4391,8 +4391,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "spetz",
-        "teamSetupName": "spetz",
+        "faction": "Spetznaz",
+        "teamSetupName": "Spetznaz",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4419,8 +4419,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "rgf",
-        "teamSetupName": "rgf",
+        "faction": "Russian Ground Forces",
+        "teamSetupName": "Russian Ground Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4430,8 +4430,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "uafi",
-        "teamSetupName": "uafi",
+        "faction": "Ukraine International Legion",
+        "teamSetupName": "Ukraine International Legion",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4458,8 +4458,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "ussf",
-        "teamSetupName": "ussf",
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4469,8 +4469,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4497,8 +4497,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "vdv",
-        "teamSetupName": "vdv",
+        "faction": "Russian Airborne Troops",
+        "teamSetupName": "Russian Airborne Troops",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4508,8 +4508,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "afu",
-        "teamSetupName": "afu",
+        "faction": "Armed Forces of Ukraine",
+        "teamSetupName": "Armed Forces of Ukraine",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4536,8 +4536,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "vdv",
-        "teamSetupName": "vdv",
+        "faction": "Russian Airborne Troops",
+        "teamSetupName": "Russian Airborne Troops",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4547,8 +4547,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "uafi",
-        "teamSetupName": "uafi",
+        "faction": "Ukraine International Legion",
+        "teamSetupName": "Ukraine International Legion",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4575,8 +4575,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4586,8 +4586,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "uafi",
-        "teamSetupName": "uafi",
+        "faction": "Ukraine International Legion",
+        "teamSetupName": "Ukraine International Legion",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4614,8 +4614,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "uafi",
-        "teamSetupName": "uafi",
+        "faction": "Ukraine International Legion",
+        "teamSetupName": "Ukraine International Legion",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4625,8 +4625,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "wagpmc",
-        "teamSetupName": "wagpmc",
+        "faction": "Wagner PMC",
+        "teamSetupName": "Wagner PMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
