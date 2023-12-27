@@ -23,8 +23,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -51,8 +51,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "Shadow Company",
-        "teamSetupName": "Shadow Company",
+        "faction": "ShadowCompany",
+        "teamSetupName": "ShadowCompany",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -168,8 +168,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "Hamas Resistance",
-        "teamSetupName": "Hamas Resistance",
+        "faction": "Hamas",
+        "teamSetupName": "Hamas",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -207,8 +207,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "Hamas Resistance",
-        "teamSetupName": "Hamas Resistance",
+        "faction": "Hamas",
+        "teamSetupName": "Hamas",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -218,8 +218,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -257,8 +257,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -296,8 +296,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -335,8 +335,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -363,8 +363,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -374,8 +374,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -413,8 +413,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -452,8 +452,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -530,8 +530,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -608,8 +608,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -647,8 +647,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -686,8 +686,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -725,8 +725,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -753,8 +753,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -764,8 +764,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -792,8 +792,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -881,8 +881,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -920,8 +920,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -959,8 +959,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1026,8 +1026,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1076,8 +1076,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1154,8 +1154,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Hamas Resistance",
-        "teamSetupName": "Hamas Resistance",
+        "faction": "Hamas",
+        "teamSetupName": "Hamas",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1193,8 +1193,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1232,8 +1232,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1310,8 +1310,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1377,8 +1377,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "Shadow Company",
-        "teamSetupName": "Shadow Company",
+        "faction": "ShadowCompany",
+        "teamSetupName": "ShadowCompany",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1427,8 +1427,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Hamas Resistance",
-        "teamSetupName": "Hamas Resistance",
+        "faction": "Hamas",
+        "teamSetupName": "Hamas",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1505,8 +1505,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1533,8 +1533,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "Hamas Resistance",
-        "teamSetupName": "Hamas Resistance",
+        "faction": "Hamas",
+        "teamSetupName": "Hamas",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1661,8 +1661,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1700,8 +1700,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1739,8 +1739,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1817,8 +1817,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1845,8 +1845,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "Hamas Resistance",
-        "teamSetupName": "Hamas Resistance",
+        "faction": "Hamas",
+        "teamSetupName": "Hamas",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2012,8 +2012,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2129,8 +2129,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2402,8 +2402,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2558,8 +2558,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Hamas Resistance",
-        "teamSetupName": "Hamas Resistance",
+        "faction": "Hamas",
+        "teamSetupName": "Hamas",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2597,8 +2597,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2625,8 +2625,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2636,8 +2636,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Hamas Resistance",
-        "teamSetupName": "Hamas Resistance",
+        "faction": "Hamas",
+        "teamSetupName": "Hamas",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2675,8 +2675,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2703,8 +2703,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2714,8 +2714,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Hamas Resistance",
-        "teamSetupName": "Hamas Resistance",
+        "faction": "Hamas",
+        "teamSetupName": "Hamas",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2753,8 +2753,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2792,8 +2792,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2831,8 +2831,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2870,8 +2870,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2948,8 +2948,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3026,8 +3026,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3054,8 +3054,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3065,8 +3065,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3104,8 +3104,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Hamas Resistance",
-        "teamSetupName": "Hamas Resistance",
+        "faction": "Hamas",
+        "teamSetupName": "Hamas",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3143,8 +3143,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3171,8 +3171,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3182,8 +3182,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3299,8 +3299,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3377,8 +3377,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3494,8 +3494,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3611,8 +3611,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3650,8 +3650,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Hamas Resistance",
-        "teamSetupName": "Hamas Resistance",
+        "faction": "Hamas",
+        "teamSetupName": "Hamas",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3689,8 +3689,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3795,8 +3795,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "Shadow Company",
-        "teamSetupName": "Shadow Company",
+        "faction": "ShadowCompany",
+        "teamSetupName": "ShadowCompany",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3845,8 +3845,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Hamas Resistance",
-        "teamSetupName": "Hamas Resistance",
+        "faction": "Hamas",
+        "teamSetupName": "Hamas",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3923,8 +3923,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3962,8 +3962,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4001,8 +4001,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4040,8 +4040,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4068,8 +4068,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4079,8 +4079,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4107,8 +4107,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4157,8 +4157,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4196,8 +4196,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4224,8 +4224,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4235,8 +4235,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "AQ Insurgents",
-        "teamSetupName": "AQ Insurgents",
+        "faction": "AQ-Insurgents",
+        "teamSetupName": "AQ-Insurgents",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4263,8 +4263,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4313,8 +4313,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Hamas Resistance",
-        "teamSetupName": "Hamas Resistance",
+        "faction": "Hamas",
+        "teamSetupName": "Hamas",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4469,8 +4469,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4575,8 +4575,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4625,8 +4625,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Wagner PMC",
-        "teamSetupName": "Wagner PMC",
+        "faction": "WagnerPMC",
+        "teamSetupName": "WagnerPMC",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
