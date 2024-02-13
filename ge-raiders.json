@@ -4682,6 +4682,45 @@
       "layerVersion": "v3",
       "mapSize": "0.5x5.0 km",
       "mapSizeType": "Playable Area"
+      },
+      {
+      "Name": "GE_Mestia_Invasion_v1_UAFI-WAGPMC",
+      "rawName": "GE_Mestia_Invasion_v1_UAFI-WAGPMC",
+      "levelName": "GE_Mestia_Invasion_v1_UAFI-WAGPMC",
+      "minimapTexture": "GE_Mestia_Invasion_v1_UAFI-WAGPMC",
+      "lightingLevel": "GE_Mestia_Invasion_v1_UAFI-WAGPMC",
+      "lighting": "Partial Clouds Mid Day",
+      "border": [],
+      "team1": {
+        "faction": "Ukraine International Legion",
+        "teamSetupName": "Ukraine International Legion",
+        "tickets": "350",
+        "playerPercent": "50",
+        "disabledVeh": "true",
+        "intelOnEnemy": "3",
+        "actions": "4",
+        "commander": "true",
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "Wagner P M C",
+        "teamSetupName": "Wagner P M C",
+        "tickets": "350",
+        "playerPercent": "50",
+        "disabledVeh": "true",
+        "intelOnEnemy": "3",
+        "actions": "4",
+        "commander": "true",
+        "vehicles": []
+      },
+      "type": "AAS Graph",
+      "Flag": [],
+      "capturePoints": "1",
+      "mapName": "Mestia",
+      "gamemode": "Invasion",
+      "layerVersion": "v3",
+      "mapSize": "0.5x5.0 km",
+      "mapSizeType": "Playable Area"
       }
   ],
   "Vehicles": [
