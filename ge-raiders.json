@@ -51,8 +51,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "Shadow Company",
-        "teamSetupName": "Shadow Company",
+        "faction": "S h a d o w  Company",
+        "teamSetupName": "S h a d o w C o m pany",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -62,8 +62,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Spetznaz",
-        "teamSetupName": "Spetznaz",
+        "faction": "S p e t z n a z",
+        "teamSetupName": "S p e t z n a z",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1377,8 +1377,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "Shadow Company",
-        "teamSetupName": "Shadow Company",
+        "faction": "S h a d o w C o m pany",
+        "teamSetupName": "S h a d o w C o m pany",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1388,8 +1388,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Spetznaz",
-        "teamSetupName": "Spetznaz",
+        "faction": "S p e t z n a z",
+        "teamSetupName": "S p e t z n a z",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -1962,8 +1962,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "Spetznaz",
-        "teamSetupName": "Spetznaz",
+        "faction": "S p e t z n a z",
+        "teamSetupName": "S p e t z n a z",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2246,8 +2246,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Spetznaz",
-        "teamSetupName": "Spetznaz",
+        "faction": "S p e t z n a z",
+        "teamSetupName": "S p e t z n a z",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -2753,8 +2753,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Spetznaz",
-        "teamSetupName": "Spetznaz",
+        "faction": "S p e t z n a z",
+        "teamSetupName": "S p e t z n a z",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -3522,8 +3522,8 @@
       "lighting": "Partial Clouds Mid Day",
       "border": [],
       "team1": {
-        "faction": "Shadow Company",
-        "teamSetupName": "Shadow Company",
+        "faction": "S h a d o w C o m pany",
+        "teamSetupName": "S h a d o w C o m pany",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -4118,8 +4118,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "Spetznaz",
-        "teamSetupName": "Spetznaz",
+        "faction": "S p e t z n a z",
+        "teamSetupName": "S p e t z n a z",
         "tickets": "350",
         "playerPercent": "50",
         "disabledVeh": "true",
